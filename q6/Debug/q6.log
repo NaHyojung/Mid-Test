@@ -1,0 +1,8 @@
+﻿  6.c
+d:\github desktop\mid-test\q6\6.c(18): error C2105: '--'에 l-value가 필요합니다.
+d:\github desktop\mid-test\q6\6.c(18): error C2146: 구문 오류: ';'이(가) 'b' 식별자 앞에 없습니다.
+d:\github desktop\mid-test\q6\6.c(24): warning C4013: 'printd'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\github desktop\mid-test\q6\6.c(6): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  d:\github desktop\mid-test\q6\6.c(6): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+d:\github desktop\mid-test\q6\6.c(8): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  d:\github desktop\mid-test\q6\6.c(8): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
